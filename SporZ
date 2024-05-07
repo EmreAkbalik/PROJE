@@ -1,0 +1,33 @@
+Proje Adı: "SporZ: Spor ve Teknoloji Platformu"
+
+1 Amaç ve Hedef Kitle:
+
+"SporZ", spor ve teknolojiyi bir araya getirerek, spor tutkunlarına bilgi, eğlence ve ilham sunmayı amaçlayan dinamik bir platformdur. Amacımız, hem spor hem de teknoloji dünyasından geleneksel ve yenilikçi içerikleri bir araya getirerek, spor tutkunlarının ilgisini çekmek ve onları bilgilendirmektir. Bu platform, spor ve teknolojiye ilgi duyan herkesi kapsar: sporcular, teknoloji meraklıları, yazılımcılar ve spor severler.
+
+2 İçerik ve Konu Başlıkları:
+
+Spor Haberleri ve Analizleri: En son spor haberleri, maç analizleri, transfer dedikoduları ve spor dünyasındaki güncel gelişmeler hakkında içerikler.
+Antrenman ve Performans: Sporcular için antrenman programları, beslenme tavsiyeleri, performans artırıcı teknikler ve spor psikolojisi üzerine yazılar.
+Spor Kültürü ve Tarih: Sporun kültürel etkileri, tarihi anekdotlar, efsanevi sporcuların portreleri ve unutulmaz spor olayları hakkında içerikler.
+Seyahat ve Macera Sporları: Spor tutkunları için seyahat rehberleri, dağcılık, yelken ve diğer macera sporları hakkında içerikler.
+Eğlence ve Mizah: Sporla ilgili komik videolar, spor temalı espriler ve eğlenceli spor etkinlikleri hakkında yazılar.
+
+3 Öne Çıkan Özellikler:
+
+Kullanıcı Dostu Arayüz: Sade ve kolay gezinilebilir bir arayüz, ziyaretçilerin istedikleri içeriği hızlıca bulmalarını sağlar.
+Güncel İçerikler: Sürekli güncellenen ve çeşitli konuları kapsayan içerikler, okuyucuların siteyi düzenli olarak ziyaret etmelerini sağlar.
+Etkileşim ve Katılım: Okuyucularla etkileşimi artırmak için yorum bölümleri ve sosyal medya entegrasyonu sağlanır.
+Çoklu Platform Desteği: Mobil uyumlu tasarım ve farklı cihazlarda sorunsuz erişim, herkesin bloga kolayca erişmesini sağlar.
+
+4 Gelişme Süreci ve Ekibimiz:
+
+"Sporcu'nun Köşesi" projesi, bir ekip işi olarak başladı. Yazılımcılar, tasarımcılar, spor uzmanları ve içerik editörleri, projenin farklı yönlerini ele almak için bir araya geldi. Sürekli olarak yeni fikirler üretiliyor ve okuyucuların beklentilerini karşılamak için çaba harcanıyor.
+
+5 Sonuç:
+
+"SporZ", spor ve teknolojiyi bir araya getirerek, spor tutkunlarına yenilikçi ve ilgi çekici içerikler sunan bir platformdur. Hem spor hem de teknoloji dünyasından en son gelişmeleri takip eden, yenilikçi projelere ilgi duyan herkesi hedefler.
+
+KAYNAKÇA;
+HTML, CSS ve JavaScript: Temel web sayfası yapılandırması ve görsel tasarım için HTML, CSS ve JavaScript kullanılacak.
+ASP.NET MVC: Web uygulamasının geliştirilmesi ve sunucu tarafındaki işlemler için ASP.NET MVC kullanılacak.
+Veritabanı Yönetimi: Veritabanı olarak SQL Server ve Entity Framework araçları kullanılarak veritabanı işlemleri gerçekleştirilecek.

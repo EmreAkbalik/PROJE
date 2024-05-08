@@ -19,6 +19,20 @@ contact: burası bizim ilesitisim kısmımızdır 4 tane aşama bulunmaktadır
 3-)Phone Number 
 4-)Message
 
+
+
 alt bölüm kısmı : burada bize ulaşmak için sosyal medya hesaplarımız bulunmaktadır
 
+
+
 içerik kısmı: burada bizim blog sayfamız ile ilgili haberlerin içerik resim vb. yazıların yada görsellerin yer aldığı kısımdır
+
+
+
+yönetim paneli admin : yetkili kullanıcı için admin controller sınıfı oluşturulup buradan adminin yapacaği işlemler yer alır
+
+
+
+kullanıcı profil sayfası: kullanıcının blog sitesinde bir profil açılacağı yerdir
+
+kullanıcın adı , telefon numarası , e-posta adresi gibi veriler veri tabanından çekilip veya kullanıcı sayfaya giriş yaptıktan sonra giriş verileri alınıp gösterilir

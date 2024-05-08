@@ -35,4 +35,4 @@ yönetim paneli admin : yetkili kullanıcı için admin controller sınıfı olu
 
 kullanıcı profil sayfası: kullanıcının blog sitesinde bir profil açılacağı yerdir
 
-kullanıcın adı , telefon numarası , e-posta adresi gibi veriler veri tabanından çekilip veya kullanıcı sayfaya giriş yaptıktan sonra giriş verileri alınıp gösterilir
+kullanıcın adı , telefon numarası , e-posta adresi gibi veriler veri tabanından çekilip veya kullanıcı sayfaya giriş yaptıktan sonra giriş verileri alınıp gösterili

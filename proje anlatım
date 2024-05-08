@@ -1,0 +1,24 @@
+başlık kısmı :burada sitenin adı yer almaktadır
+
+
+Menü kısmı ;
+
+home sayfası : burası bizim anasayfa kısmımızdır sayfaya girildiğinde öne çıkan spor haberleri bulunmaktadır bu kısım sayfaya girildiğinde çıkacak ılk kısımdır 
+burası ASP.net mvc de home controller kısmından yönetilir
+
+about sayfası : burası bizim hakkımızda ile ilgili bilgilirmizin yer aldığı bir kısımdır burda blog sitemiz hakkında bilgilere ulaşabilirsiniz
+burası ASP.net mvc de about controller sinifindan yönetilir
+
+sample post : burası bizim post sayfamızdır öne cıkan haberlere yada bir spor blogu hakkında ayrıntılı bilgilerin verildiği post sayfasıdır
+burası asp.net mvc de post controller sınıfından yönetilir
+
+contact: burası bizim ilesitisim kısmımızdır 4 tane aşama bulunmaktadır
+
+1-)Name 
+2-)Email address
+3-)Phone Number 
+4-)Message
+
+alt bölüm kısmı : burada bize ulaşmak için sosyal medya hesaplarımız bulunmaktadır
+
+içerik kısmı: burada bizim blog sayfamız ile ilgili haberlerin içerik resim vb. yazıların yada görsellerin yer aldığı kısımdır
